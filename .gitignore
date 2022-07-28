@@ -1,0 +1,10 @@
+venv
+.idea
+*.env
+.vscode
+.mypy_cache
+*.csv
+.DS_store
+.python-version
+__pycache__/
+/project/static/
